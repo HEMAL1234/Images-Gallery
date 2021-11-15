@@ -1,0 +1,17 @@
+body {
+    background: #111;
+  }
+  
+  img {
+    width: 100%;
+  }
+  .photo-grid-container {
+    column-count: 7;
+    column-width: 500px;
+  }
+  .photo-grid-item {
+    margin: 0 auto 15px;
+    max-width: 700px;
+    width: 100%;
+  }
+  
